@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Escribir Externo e Interno</string>
+    <string name="preference_file_key">com.naldana.ejemplo11.PREFERENCE_FILE</string>
+    <string name="save_email_key">Dato guardado: </string>
+    <string name="text_write"></string>
+    <string name="text_save">save</string>
+    <string name="text_write_external">Escribir externo</string>
+    <string name="text_write_internal">Escribir interno</string>
+    <string name="text_read_internal">Leer interno</string>
+    <string name="reed_external">Leer Externo</string>
+</resources>
